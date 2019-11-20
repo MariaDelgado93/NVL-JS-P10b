@@ -11,3 +11,5 @@ for (var i = 0; i < 50 + 1; i++){
     impares.push(num)
   }
 }
+
+console.log(pares);
